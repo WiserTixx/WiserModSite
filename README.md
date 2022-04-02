@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Wisermod
 
 You can use the [editor on GitHub](https://github.com/WiserTixx/WiserModSite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
